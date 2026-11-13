@@ -1,3 +1,3 @@
-# HIKARI project ホームページ
+# hikari-kagoshima.github.io
 
-公開URL: https://hikari-kagoshima.github.io/
+公開準備中
